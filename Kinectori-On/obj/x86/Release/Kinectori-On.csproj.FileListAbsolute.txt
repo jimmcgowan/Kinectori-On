@@ -1,0 +1,15 @@
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Release\Kinectori-On.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Release\Kinectori-On.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\MainWindow.baml
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\App.g.cs
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori-On_MarkupCompile.cache
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori-On.g.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori_On.Properties.Resources.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori-On.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori-On.pdb
+C:\Users\Jim\Documents\Visual Studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Release\Kinectori-On_Content.g.cs
+C:\Users\Jim\Documents\Visual Studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Release\fmodex.dll

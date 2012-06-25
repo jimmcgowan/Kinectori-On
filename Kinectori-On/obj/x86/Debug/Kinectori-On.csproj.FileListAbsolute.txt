@@ -1,0 +1,28 @@
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\bin\Debug\Kinectori-On.exe
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\bin\Debug\Kinectori-On.pdb
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\MainWindow.baml
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\App.g.cs
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\Kinectori-On_MarkupCompile.cache
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\Kinectori-On.g.resources
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\Kinectori_On.Properties.Resources.resources
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\Kinectori-On.exe
+C:\Users\Jim\AppData\Local\Temporary Projects\Kinectori-On\obj\x86\Debug\Kinectori-On.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori-On.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori-On.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Debug\Kinectori-On.exe
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Debug\Kinectori-On.pdb
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\MainWindow.baml
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\App.g.cs
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori-On_MarkupCompile.cache
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori-On.g.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori_On.Properties.Resources.resources
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jim\documents\visual studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jim\Documents\Visual Studio 2010\Projects\Kinectori-On\Kinectori-On\bin\Debug\fmodex.dll
+C:\Users\Jim\Documents\Visual Studio 2010\Projects\Kinectori-On\Kinectori-On\obj\x86\Debug\Kinectori-On_Content.g.cs
