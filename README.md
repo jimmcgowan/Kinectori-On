@@ -7,7 +7,7 @@ The project was written in C# using the Microsoft Kinect For Windows SDK, and th
 
 Full details at http://bleepsandpops.com
 
-Jim McGiwan
+Jim McGowan
 
 jim@bleepsandpops.com
 jim@malkinware.com
